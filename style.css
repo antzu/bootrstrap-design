@@ -32,7 +32,7 @@ img {
 }
 
 #what-we-do {
-    height: 100vh;
+
 }
 
 .card{
@@ -44,7 +44,7 @@ img {
 }
 
 #about{
-    height: 100vh;
+
     background: url('img/lake.jpg') center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -56,5 +56,13 @@ img {
     color: white;
     padding: 1.875rem;
 }
+
+#footer-main {
+    background: #222222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
+
 
 
