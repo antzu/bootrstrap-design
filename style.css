@@ -44,7 +44,7 @@ img {
 }
 
 #about{
-
+    height: 100vh;
     background: url('img/lake.jpg') center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -55,6 +55,10 @@ img {
     background: rgba(0,0,0,0.8);
     color: white;
     padding: 1.875rem;
+}
+
+.card-columns{
+    max-width: 100%;
 }
 
 #footer-main {
